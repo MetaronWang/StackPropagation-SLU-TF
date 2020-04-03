@@ -1,0 +1,8 @@
+<PAD>	0
+PlayMusic	1
+AddToPlaylist	2
+RateBook	3
+SearchScreeningEvent	4
+BookRestaurant	5
+GetWeather	6
+SearchCreativeWork	7
