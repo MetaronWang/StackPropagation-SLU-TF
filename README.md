@@ -19,4 +19,4 @@ The code that published by the author of the paper is implemented by PyTorch and
 # Environment
 I use TF1 to implement this model and you can run it with tf1.13-1.15, the tf with other versions haven't been verified the usability and you can try it if it is necessary for you.
 
-The code don't need any other package without TensorFlow and Numpy. It is a **procedure-oriented** style now, maybe I will update it to object-oriented style in future. 
+The code don't need any other package except TensorFlow and Numpy. It is a **procedure-oriented** style now, maybe I will update it to object-oriented style in future. 
